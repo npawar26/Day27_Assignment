@@ -1,0 +1,8 @@
+AddressBook2:[Contact (firstName=Ravi, lastName=Chaudhari, city=Parola)
+, Contact (firstName=Amol, lastName=Bagul, city=Dhule)
+, Contact (firstName=Abhishekh, lastName=Patil, city=Parola)
+]
+AddressBook1:[Contact (firstName=Nikhil, lastName=Pawar, city=Dhule)
+, Contact (firstName=Aryan, lastName=Patil, city=Amalner)
+, Contact (firstName=Avi, lastName=Patil, city=Shirpur)
+]
